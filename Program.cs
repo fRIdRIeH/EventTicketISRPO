@@ -1,17 +1,29 @@
+using MySql.Data.MySqlClient;
+
 namespace EventTicket
 {
     internal static class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
         [STAThread]
         static void Main()
         {
-            // To customize application configuration such as set high DPI settings or default font,
-            // see https://aka.ms/applicationconfiguration.
-            ApplicationConfiguration.Initialize();
-            Application.Run(new MainForm());
+            const string database = "EventTicket";
+
+            string connectionString = $"Server=localhost;Database={database};User=root;Password=;Port=3306";
+
+            using (MySqlConnection connection = new MySqlConnection(connectionString))
+            {
+                try
+                {
+                    connection.Open();
+                    ApplicationConfiguration.Initialize();
+                    Application.Run(new MainForm(connection));
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Ошибка! " + ex.Message);
+                }
+            }
         }
     }
 }

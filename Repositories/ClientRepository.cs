@@ -18,7 +18,7 @@ namespace EventTicket.Repositories
             _connection = connection;
         }
 
-        bool Add(Models.Client client)
+        public bool Add(Models.Client client)
         {
             string insertQuery = "INSERT INTO Clients " +
                 "(Surname, Name, Patronimyc, Email, Telephone, Address) " +
@@ -58,14 +58,8 @@ namespace EventTicket.Repositories
 
         public bool Update(Models.Client client)
         {
-            string updateQuery = "UPDATE Clients SET " +
-                "Surname = @Surname, " +
-                "Name = @Name, " +
-                "Patronimyc = @Patronimyc, " +
-                "Email = @Email, " +
-                "Telephone = @Telephone, " +
-                "Address = @Address, " +
-                "WHERE Id = @id";
+            string updateQuery = "UPDATE Clients SET Surname = @Surname, Name = @Name, Patronimyc = @Patronimyc, Email = @Email," +
+                "Telephone = @Telephone, Address = @Address WHERE Id = @Id";
 
             using (MySqlCommand cmd = new MySqlCommand(updateQuery, _connection))
             {
@@ -86,7 +80,7 @@ namespace EventTicket.Repositories
 
         public Models.Client? Get(int id)
         {
-            string selectQuery = "SELECT * FROM WHERE Id = @Id";
+            string selectQuery = "SELECT * FROM Clients WHERE Id = @Id";
 
             using (MySqlCommand cmd = new MySqlCommand(selectQuery, _connection))
             {
@@ -136,7 +130,7 @@ namespace EventTicket.Repositories
                     clients.Add(client);
                 }
             }
-            return null;
+            return clients;
         }
     }
 }

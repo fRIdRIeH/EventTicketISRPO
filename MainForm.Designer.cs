@@ -41,6 +41,7 @@
             btnGoToEventList.TabIndex = 0;
             btnGoToEventList.Text = "Мероприятия";
             btnGoToEventList.UseVisualStyleBackColor = true;
+            btnGoToEventList.Click += btnGoToEventList_Click;
             // 
             // btnGoToClientList
             // 
@@ -50,6 +51,7 @@
             btnGoToClientList.TabIndex = 1;
             btnGoToClientList.Text = "Клиенты";
             btnGoToClientList.UseVisualStyleBackColor = true;
+            btnGoToClientList.Click += btnGoToClientList_Click;
             // 
             // btnGoToCommissionList
             // 
@@ -59,6 +61,7 @@
             btnGoToCommissionList.TabIndex = 2;
             btnGoToCommissionList.Text = "Заказы";
             btnGoToCommissionList.UseVisualStyleBackColor = true;
+            btnGoToCommissionList.Click += btnGoToCommissionList_Click;
             // 
             // MainForm
             // 

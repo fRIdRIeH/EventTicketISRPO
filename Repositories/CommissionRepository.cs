@@ -3,10 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MySql.Data.MySqlClient;
 
 namespace EventTicket.Repositories
 {
-    internal class CommissionRepository
+    public class CommissionRepository
     {
+        private readonly MySqlConnection _connection;
+
+        public CommissionRepository(MySqlConnection connection)
+        {
+            _connection = connection;
+        }
     }
 }

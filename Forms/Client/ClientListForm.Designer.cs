@@ -28,27 +28,29 @@
         /// </summary>
         private void InitializeComponent()
         {
-            dataGridView1 = new DataGridView();
+            dataGridViewClients = new DataGridView();
             btnAdd = new Button();
-            button1 = new Button();
-            button2 = new Button();
+            btnDelete = new Button();
+            btnEdit = new Button();
             btnRefresh = new Button();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewClients).BeginInit();
             SuspendLayout();
             // 
-            // dataGridView1
+            // dataGridViewClients
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(14, 97);
-            dataGridView1.Margin = new Padding(5, 5, 5, 5);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.Size = new Size(856, 402);
-            dataGridView1.TabIndex = 0;
+            dataGridViewClients.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridViewClients.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewClients.Location = new Point(14, 97);
+            dataGridViewClients.Margin = new Padding(5);
+            dataGridViewClients.Name = "dataGridViewClients";
+            dataGridViewClients.Size = new Size(856, 402);
+            dataGridViewClients.TabIndex = 0;
+            dataGridViewClients.CellClick += dataGridViewClients_CellClick;
             // 
             // btnAdd
             // 
             btnAdd.Location = new Point(14, 509);
-            btnAdd.Margin = new Padding(5, 5, 5, 5);
+            btnAdd.Margin = new Padding(5);
             btnAdd.Name = "btnAdd";
             btnAdd.Size = new Size(118, 38);
             btnAdd.TabIndex = 1;
@@ -56,27 +58,27 @@
             btnAdd.UseVisualStyleBackColor = true;
             btnAdd.Click += btnAdd_Click;
             // 
-            // button1
+            // btnDelete
             // 
-            button1.Location = new Point(142, 509);
-            button1.Margin = new Padding(5);
-            button1.Name = "button1";
-            button1.Size = new Size(118, 38);
-            button1.TabIndex = 2;
-            button1.Text = "Удалить";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            btnDelete.Location = new Point(142, 509);
+            btnDelete.Margin = new Padding(5);
+            btnDelete.Name = "btnDelete";
+            btnDelete.Size = new Size(118, 38);
+            btnDelete.TabIndex = 2;
+            btnDelete.Text = "Удалить";
+            btnDelete.UseVisualStyleBackColor = true;
+            btnDelete.Click += btnDelete_Click;
             // 
-            // button2
+            // btnEdit
             // 
-            button2.Location = new Point(270, 509);
-            button2.Margin = new Padding(5);
-            button2.Name = "button2";
-            button2.Size = new Size(173, 38);
-            button2.TabIndex = 3;
-            button2.Text = "Редактировать";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
+            btnEdit.Location = new Point(270, 509);
+            btnEdit.Margin = new Padding(5);
+            btnEdit.Name = "btnEdit";
+            btnEdit.Size = new Size(173, 38);
+            btnEdit.TabIndex = 3;
+            btnEdit.Text = "Редактировать";
+            btnEdit.UseVisualStyleBackColor = true;
+            btnEdit.Click += btnEdit_Click;
             // 
             // btnRefresh
             // 
@@ -95,26 +97,26 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(884, 561);
             Controls.Add(btnRefresh);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            Controls.Add(btnEdit);
+            Controls.Add(btnDelete);
             Controls.Add(btnAdd);
-            Controls.Add(dataGridView1);
+            Controls.Add(dataGridViewClients);
             Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            Margin = new Padding(5, 5, 5, 5);
+            Margin = new Padding(5);
             MaximizeBox = false;
             Name = "ClientListForm";
-            StartPosition = FormStartPosition.CenterParent;
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Список клиентов";
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewClients).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
-        private DataGridView dataGridView1;
+        private DataGridView dataGridViewClients;
         private Button btnAdd;
-        private Button button1;
-        private Button button2;
+        private Button btnDelete;
+        private Button btnEdit;
         private Button btnRefresh;
     }
 }

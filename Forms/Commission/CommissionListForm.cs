@@ -7,14 +7,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using EventTicket.Repositories;
 
 namespace EventTicket.Forms.Commission
 {
     public partial class CommissionListForm : Form
     {
-        public CommissionListForm()
+        private readonly CommissionRepository _commissionRepository;
+        public CommissionListForm(CommissionRepository commissionRepository)
         {
             InitializeComponent();
+            _commissionRepository = commissionRepository;
         }
     }
 }
