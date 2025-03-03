@@ -55,7 +55,7 @@ namespace EventTicket.Forms.Client
 
                 try
                 {
-                    Models.Client client = new()
+                    Models.ClientSAT client = new()
                     {
                         Surname = inputSurnameText.Text,
                         Name = inputNameText.Text,
@@ -84,7 +84,7 @@ namespace EventTicket.Forms.Client
 
                 try
                 {
-                    Models.Client client = new()
+                    Models.ClientSAT client = new()
                     {
                         Id = id,
                         Surname = inputSurnameText.Text,

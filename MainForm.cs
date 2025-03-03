@@ -32,7 +32,9 @@ namespace EventTicket
         private void btnGoToCommissionList_Click(object sender, EventArgs e)
         {
             CommissionRepository commissionRepository = new(_connection);
-            CommissionListForm commissionListForm = new CommissionListForm(commissionRepository);
+            ClientRepository clientRepository = new(_connection);
+            EventRepository eventRepository = new(_connection);
+            CommissionListForm commissionListForm = new CommissionListForm(commissionRepository, clientRepository, eventRepository);
             commissionListForm.ShowDialog();
         }
     }

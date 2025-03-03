@@ -56,14 +56,14 @@
             // 
             inputSurnameText.Location = new Point(12, 37);
             inputSurnameText.Name = "inputSurnameText";
-            inputSurnameText.Size = new Size(333, 33);
+            inputSurnameText.Size = new Size(360, 33);
             inputSurnameText.TabIndex = 1;
             // 
             // btnAddOrEdit
             // 
-            btnAddOrEdit.Location = new Point(12, 474);
+            btnAddOrEdit.Location = new Point(12, 513);
             btnAddOrEdit.Name = "btnAddOrEdit";
-            btnAddOrEdit.Size = new Size(333, 36);
+            btnAddOrEdit.Size = new Size(360, 36);
             btnAddOrEdit.TabIndex = 2;
             btnAddOrEdit.Text = "Добавить";
             btnAddOrEdit.UseVisualStyleBackColor = true;
@@ -73,7 +73,7 @@
             // 
             inputNameText.Location = new Point(12, 101);
             inputNameText.Name = "inputNameText";
-            inputNameText.Size = new Size(333, 33);
+            inputNameText.Size = new Size(360, 33);
             inputNameText.TabIndex = 4;
             // 
             // label2
@@ -89,7 +89,7 @@
             // 
             inputPatronimycText.Location = new Point(12, 165);
             inputPatronimycText.Name = "inputPatronimycText";
-            inputPatronimycText.Size = new Size(333, 33);
+            inputPatronimycText.Size = new Size(360, 33);
             inputPatronimycText.TabIndex = 6;
             // 
             // label3
@@ -105,7 +105,7 @@
             // 
             inputEmailText.Location = new Point(12, 229);
             inputEmailText.Name = "inputEmailText";
-            inputEmailText.Size = new Size(333, 33);
+            inputEmailText.Size = new Size(360, 33);
             inputEmailText.TabIndex = 8;
             // 
             // label4
@@ -121,7 +121,7 @@
             // 
             inputTelephoneText.Location = new Point(12, 293);
             inputTelephoneText.Name = "inputTelephoneText";
-            inputTelephoneText.Size = new Size(333, 33);
+            inputTelephoneText.Size = new Size(360, 33);
             inputTelephoneText.TabIndex = 10;
             // 
             // label5
@@ -137,7 +137,7 @@
             // 
             inputAddressText.Location = new Point(12, 357);
             inputAddressText.Name = "inputAddressText";
-            inputAddressText.Size = new Size(333, 33);
+            inputAddressText.Size = new Size(360, 33);
             inputAddressText.TabIndex = 12;
             // 
             // label6
@@ -153,7 +153,7 @@
             // 
             AutoScaleDimensions = new SizeF(11F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(357, 522);
+            ClientSize = new Size(384, 561);
             Controls.Add(inputAddressText);
             Controls.Add(label6);
             Controls.Add(inputTelephoneText);

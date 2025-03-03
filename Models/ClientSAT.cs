@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace EventTicket.Models
 {
-    public class Client
+    public class ClientSAT
     {
         public int Id { get; set; }
         public string Surname { get; set; }
@@ -17,14 +17,14 @@ namespace EventTicket.Models
         public string Telephone { get; set; }
         public string Address { get; set; }
 
-        public Client() { }
+        public ClientSAT() { }
 
-        public Client(string surname, string name, string patronimyc, string email, string telephone, string address)
+        public ClientSAT(string surname, string name, string patronimyc, string email, string telephone, string address)
         {
             Surname = surname; Name = name; Patronimyc = patronimyc; Email = email; Telephone = telephone; Address = address;
         }
 
-        public Client(int id, string surname, string name, string patronimyc, string email, string telephone, string address)
+        public ClientSAT(int id, string surname, string name, string patronimyc, string email, string telephone, string address)
         {
             Id = id; Surname = surname; Name = name; Patronimyc = patronimyc; Email = email; Telephone = telephone; Address = address;
         }

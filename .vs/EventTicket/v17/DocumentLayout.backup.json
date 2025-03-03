@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|c:\\users\\wladw\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\eventticketisrpo\\forms\\client\\clientaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|solutionrelative:forms\\client\\clientaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|c:\\users\\wladw\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\eventticketisrpo\\forms\\commission\\commissionaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|solutionrelative:forms\\commission\\commissionaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|c:\\users\\wladw\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\eventticketisrpo\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|solutionrelative:repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|c:\\users\\wladw\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\eventticketisrpo\\models\\commissionsat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|solutionrelative:models\\commissionsat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|c:\\users\\wladw\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\eventticketisrpo\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|solutionrelative:models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|c:\\users\\wladw\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\eventticketisrpo\\forms\\commission\\commissionaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|solutionrelative:forms\\commission\\commissionaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|c:\\users\\wladw\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\eventticketisrpo\\forms\\client\\clientlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|solutionrelative:forms\\client\\clientlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|c:\\users\\wladw\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\eventticketisrpo\\forms\\commission\\commissionlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|solutionrelative:forms\\commission\\commissionlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|c:\\users\\wladw\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\eventticketisrpo\\forms\\client\\clientaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|solutionrelative:forms\\client\\clientaddform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|c:\\users\\wladw\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\eventticketisrpo\\repositories\\commissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|solutionrelative:repositories\\commissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|c:\\users\\wladw\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\eventticketisrpo\\forms\\client\\clientlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|solutionrelative:forms\\client\\clientlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|c:\\users\\wladw\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\github\\eventticketisrpo\\forms\\commission\\commissionlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{293420CC-B59E-4CA7-B80C-0C8A8087C42C}|EventTicket.csproj|solutionrelative:forms\\commission\\commissionlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,77 +39,98 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClientAddForm.cs",
-              "DocumentMoniker": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Client\\ClientAddForm.cs",
-              "RelativeDocumentMoniker": "Forms\\Client\\ClientAddForm.cs",
-              "ToolTip": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Client\\ClientAddForm.cs",
-              "RelativeToolTip": "Forms\\Client\\ClientAddForm.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAUwFcAAAAVAAAAAAAAAA==",
+              "Title": "CommissionAddForm.cs",
+              "DocumentMoniker": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Commission\\CommissionAddForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Commission\\CommissionAddForm.cs",
+              "ToolTip": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Commission\\CommissionAddForm.cs",
+              "RelativeToolTip": "Forms\\Commission\\CommissionAddForm.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAIwKgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:45:59.098Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClientAddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Client\\ClientAddForm.cs",
-              "RelativeDocumentMoniker": "Forms\\Client\\ClientAddForm.cs",
-              "ToolTip": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Client\\ClientAddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Forms\\Client\\ClientAddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:41:58.43Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClientListForm.cs",
-              "DocumentMoniker": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Client\\ClientListForm.cs",
-              "RelativeDocumentMoniker": "Forms\\Client\\ClientListForm.cs",
-              "ToolTip": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Client\\ClientListForm.cs",
-              "RelativeToolTip": "Forms\\Client\\ClientListForm.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAIwEYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:29:35.038Z",
+              "WhenOpened": "2025-03-03T16:59:20.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ClientListForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Client\\ClientListForm.cs",
-              "RelativeDocumentMoniker": "Forms\\Client\\ClientListForm.cs",
-              "ToolTip": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Client\\ClientListForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Forms\\Client\\ClientListForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "CommissionListForm.cs",
+              "DocumentMoniker": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Commission\\CommissionListForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Commission\\CommissionListForm.cs",
+              "ToolTip": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Commission\\CommissionListForm.cs",
+              "RelativeToolTip": "Forms\\Commission\\CommissionListForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv1wAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T08:59:18.506Z",
+              "WhenOpened": "2025-03-03T16:32:05.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommissionListForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Commission\\CommissionListForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Commission\\CommissionListForm.cs",
+              "ToolTip": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Commission\\CommissionListForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Forms\\Commission\\CommissionListForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:39:14.631Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "Models\\Client.cs",
-              "ToolTip": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Models\\Client.cs",
-              "RelativeToolTip": "Models\\Client.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Title": "CommissionAddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Commission\\CommissionAddForm.cs",
+              "RelativeDocumentMoniker": "Forms\\Commission\\CommissionAddForm.cs",
+              "ToolTip": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Forms\\Commission\\CommissionAddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Forms\\Commission\\CommissionAddForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T08:28:08.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T15:39:13.972Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Repositories\\ClientRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ClientRepository.cs",
-              "ToolTip": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Repositories\\ClientRepository.cs",
-              "RelativeToolTip": "Repositories\\ClientRepository.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwDsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CommissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Repositories\\CommissionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CommissionRepository.cs",
+              "ToolTip": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Repositories\\CommissionRepository.cs",
+              "RelativeToolTip": "Repositories\\CommissionRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwD4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T08:27:38.327Z",
+              "WhenOpened": "2025-03-03T15:39:08.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "10cbe6e0-7236-4947-b43e-fcd72032fa9b",
+        "Display": 2,
+        "X": 832,
+        "Y": 321,
+        "Width": 1586,
+        "Height": 822,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommissionSAT.cs",
+              "DocumentMoniker": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Models\\CommissionSAT.cs",
+              "RelativeDocumentMoniker": "Models\\CommissionSAT.cs",
+              "ToolTip": "C:\\Users\\wladw\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\GitHub\\EventTicketISRPO\\Models\\CommissionSAT.cs",
+              "RelativeToolTip": "Models\\CommissionSAT.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAawEIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:39:09.926Z",
               "EditorCaption": ""
             }
           ]

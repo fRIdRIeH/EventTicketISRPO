@@ -18,7 +18,7 @@ namespace EventTicket.Repositories
             _connection = connection;
         }
 
-        public bool Add(Models.Client client)
+        public bool Add(Models.ClientSAT client)
         {
             string insertQuery = "INSERT INTO Clients " +
                 "(Surname, Name, Patronimyc, Email, Telephone, Address) " +
@@ -56,7 +56,7 @@ namespace EventTicket.Repositories
             }
         }
 
-        public bool Update(Models.Client client)
+        public bool Update(Models.ClientSAT client)
         {
             string updateQuery = "UPDATE Clients SET Surname = @Surname, Name = @Name, Patronimyc = @Patronimyc, Email = @Email," +
                 "Telephone = @Telephone, Address = @Address WHERE Id = @Id";
@@ -78,7 +78,7 @@ namespace EventTicket.Repositories
             }
         }
 
-        public Models.Client? Get(int id)
+        public Models.ClientSAT? Get(int id)
         {
             string selectQuery = "SELECT * FROM Clients WHERE Id = @Id";
 
@@ -90,7 +90,7 @@ namespace EventTicket.Repositories
                 {
                     if (reader.Read())
                     {
-                        Models.Client client = new Models.Client
+                        Models.ClientSAT client = new Models.ClientSAT
                         {
                             Id = reader.GetInt32("Id"),
                             Surname = reader.GetString("Surname"),
@@ -107,9 +107,9 @@ namespace EventTicket.Repositories
             return null;
         }
 
-        public List<Models.Client> GetAll()
+        public List<Models.ClientSAT> GetAll()
         {
-            List<Models.Client>clients = new List<Models.Client>();
+            List<Models.ClientSAT>clients = new List<Models.ClientSAT>();
             string selectQuery = "SELECT * FROM Clients";
 
             using (MySqlCommand cmd = new MySqlCommand(selectQuery, _connection))
@@ -117,7 +117,7 @@ namespace EventTicket.Repositories
             {
                 while (reader.Read())
                 {
-                    Models.Client client = new()
+                    Models.ClientSAT client = new()
                     {
                         Id = reader.GetInt32("Id"),
                         Surname = reader.GetString("Surname"),
