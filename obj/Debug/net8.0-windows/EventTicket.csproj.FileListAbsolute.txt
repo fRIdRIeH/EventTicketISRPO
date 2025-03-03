@@ -1,0 +1,14 @@
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.csproj.AssemblyReference.cache
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.Forms.Client.ClientAddForm.resources
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.Forms.Client.ClientListForm.resources
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.Forms.Commission.CommissionAddForm.resources
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.Forms.Commission.CommissionListForm.resources
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.Forms.Event.EventAddForm.resources
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.Forms.Event.EventListForm.resources
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.MainForm.resources
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.csproj.GenerateResource.cache
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.AssemblyInfoInputs.cache
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.AssemblyInfo.cs
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.csproj.CoreCompileInputs.cache
+C:\Users\wladw\OneDrive\Документы\GitHub\EventTicketISRPO\obj\Debug\net8.0-windows\EventTicket.sourcelink.json
